@@ -2,4 +2,8 @@ lllllllllllllll
 pppppppppppppp
 LLLSsLLLLLLLSa
 hahahah
+<<<<<<< HEAD
 hahahah
+=======
+xixixi
+>>>>>>> aaa
